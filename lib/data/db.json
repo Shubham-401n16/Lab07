@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "name": "electronics",
+      "description": "All kinds of phones",
+      "id": 1,
+      "display_name": "gadgets"
+    },
+    {
+      "name": "supplies",
+      "description": "All kinds of supplies",
+      "id": 2,
+      "display_name": "everyday"
+    },
+    {
+      "name": "washing",
+      "description": "All kinds of washing supplies",
+      "id": 3,
+      "display_name": "soap"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category": "electronics",
+      "name": "smart phone",
+      "display_name": "cheap phones",
+      "description": "dual camera phones"
+    },
+    {
+      "id": 2,
+      "category": "supplies",
+      "name": "paper",
+      "display_name": "printing papers",
+      "description": "4x4 papers"
+    },
+    {
+      "id": 3,
+      "category": "washing",
+      "name": "detergent",
+      "display_name": "soap",
+      "description": "regular washing"
+    },
+    {
+      "id": 7,
+      "category": "Cgicken",
+      "name": "Tandoori",
+      "display_name": "Barbq",
+      "description": "spicy chicken"
+    }
+  ]
+}
